@@ -132,6 +132,11 @@ Created an interactive Excel dashboard using:
 - Average Pizzas Per Order
 
 ---
+## 📷 Dashboard Preview
+
+The dashboard provides an interactive overview of pizza sales performance, highlighting key KPIs, sales trends, product performance, and customer ordering behavior.
+
+![Pizza Sales Dashboard](pizza_sales.png)
 
 ## 💡 Key Business Insights
 
