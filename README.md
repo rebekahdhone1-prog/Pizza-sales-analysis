@@ -192,7 +192,6 @@ Pizza-Sales-Analysis/
 ├── Pizza_sales_sql_queries.pdf
 └── pizza_sales.png
 ```
-```
 
 ---
 
