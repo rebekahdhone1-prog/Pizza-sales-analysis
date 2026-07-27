@@ -186,17 +186,12 @@ This analysis helps businesses:
 ```text
 Pizza-Sales-Analysis/
 
-├── data/
-│   └── pizza_sales.csv
-│
-├── dashboard/
-│   └── Pizza_Sales_Dashboard.xlsx
-│
-├── sql/
-│   └── Pizza_Sales_SQL_Queries.pdf
-│
 ├── README.md
-└── LICENSE
+├── pizza_sales.csv
+├── pizza sales dashboard.xlsx
+├── Pizza_sales_sql_queries.pdf
+└── pizza_sales.png
+```
 ```
 
 ---
